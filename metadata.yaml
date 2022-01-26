@@ -5,12 +5,17 @@ contributor:
     agent_name: Sec, Fong F.
     gutenberg_agent_id: '54144'
     url: http://www.gutenberg.org/2009/agents/54144
+covers:
+- cover_type: archival
+  image_path: 67168-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Hayes, L. Newton
     gutenberg_agent_id: '54143'
     url: http://www.gutenberg.org/2009/agents/54143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67168#The-Chinese-Dragon
 gutenberg_issued: '2022-01-15'
 identifiers:
   gutenberg: '67168'
